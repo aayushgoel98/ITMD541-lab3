@@ -18,9 +18,12 @@ body {
 #headline {
     text-align: center;
     padding: 10px;
+    color: #7f12f3; /* Text color */
 }
-#headline{margin-bottom: 10px;
+#headline{
+    margin-bottom: 10px;
     text-decoration: underline;
+    color: #e73c4d; /* Text color */
 
 }
 
