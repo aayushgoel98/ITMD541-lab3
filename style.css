@@ -39,6 +39,7 @@ form {
 }
 
 .form-label {
+    color: blue; /* Change text color of form labels to blue */
     font-family: 'WildWest';
     font-size: 1.3rem;
 }
